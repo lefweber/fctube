@@ -9,6 +9,6 @@
         }
     ],
     "python.analysis.extraPaths": [
-        "/home/lef/miniconda3/envs/fctube/bin/python",
+        "/home/lef/miniconda3/envs/fctube/lib/python3.12/site-packages",
     ],
 }
